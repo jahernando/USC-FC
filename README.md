@@ -13,4 +13,4 @@ Index and links to the material of the course at *index.ipynb*
 
 Clich here to start your interactive session:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jahernando/USC-FC/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jahernando/USC-FC/main)
