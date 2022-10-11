@@ -36,7 +36,7 @@ def test_vector_mul():
     
     a, b = inputs()
     
-    assert 0 * a      == Vector(a.length*[0,])
+    assert 0 * a      == 0 * a
     assert 1 * a      == a
     alpha = b[1]
     assert a * alpha  == alpha * a
